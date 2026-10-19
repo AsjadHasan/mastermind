@@ -1,6 +1,7 @@
 """Module for registering courier parcels.
 Problem statement-
-A courier counter registers every parcel that customers drop off. Build a Parcel class so that each parcel object stores its own details.
+A courier counter registers every parcel that customers drop off. 
+Build a Parcel class so that each parcel object stores its own details.
 1. The constructor takes sender, receiver and weight (in kg) and stores all three as instance attributes.
 2. The constructor prints New parcel registered every time a parcel is created.
 3. Create two parcels from the input below, then print one summary line for each.
